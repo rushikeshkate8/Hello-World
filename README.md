@@ -1,3 +1,5 @@
 # Hello-World
 It prints Hello World on the screen (terminal)
-Hello my name is Rushikesh Kate
+Hello I am Rushikesh Kate. 
+I am from India 
+
